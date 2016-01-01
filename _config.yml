@@ -1,0 +1,28 @@
+name: Startbuddy
+favicon: null
+layout_spectrum: 0.526767595903948
+typography_spectrum: 0.7353926885407418
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.7836200459860265
+  lightness: 0.2039904361590743
+  saturation: 0.5357550189364702
+  rhythmicContrast: 0.8411562163382769
+purpose: []
