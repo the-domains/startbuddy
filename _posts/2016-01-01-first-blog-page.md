@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: Our first blog
-datePublished: '2016-01-01T08:19:55.751Z'
-dateModified: '2016-01-01T08:18:40.651Z'
+datePublished: '2016-01-04T08:12:58.994Z'
+dateModified: '2016-01-02T04:12:09.871Z'
 title: First blog page
 author: []
+sourcePath: _posts/2016-01-01-first-blog-page.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-01-01-first-blog-page.md
-published: true
 url: first-blog-page/index.html
 _type: Article
 
