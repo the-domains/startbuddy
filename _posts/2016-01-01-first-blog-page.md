@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: Our first blog
-datePublished: '2016-01-04T08:12:58.994Z'
-dateModified: '2016-01-02T04:12:09.871Z'
+datePublished: '2016-01-04T08:13:21.246Z'
+dateModified: '2016-01-04T08:13:13.347Z'
 title: First blog page
 author: []
 sourcePath: _posts/2016-01-01-first-blog-page.md
